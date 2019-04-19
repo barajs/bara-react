@@ -16,7 +16,7 @@
     "src/lib"
   ],
   "dependencies": {
-    "bara": "2.2.0",
+    "bara": "2.3.1",
     "fbemitter": "2.1.1",
     "react-native-web": "0.11.2"
   },
