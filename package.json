@@ -30,7 +30,7 @@
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "2.1.8",
-    "semantic-release": "15.13.18",
+    "semantic-release": "15.13.19",
     "tslint": "5.18.0",
     "tslint-config-airbnb": "5.11.1",
     "tslint-config-prettier": "1.18.0",
