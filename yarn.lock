@@ -1308,12 +1308,11 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-native@0.57.56":
-  version "0.57.56"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.57.56.tgz#433c54f371a0e98297863c652714d262f66f7101"
-  integrity sha512-Pakr71mP9GO7FAN9/OFBt7kq5tABNajg0M7EJj23ezUtstwxnhxm3kP3Tz030PBIiwOpdyDShb9Ku5xyLqs17Q==
+"@types/react-native@0.61.19":
+  version "0.61.19"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.61.19.tgz#5cbb692640b3b3dbdd82b37204b059141eda7236"
+  integrity sha512-A6M+t/8gDFe5rF7DoFDCLEfadturcgV4NCrXc64W/luLxNpR3WGMEKsK1EeR0/OmOfMyS4rQTH5nAhl4iaQ+KA==
   dependencies:
-    "@types/prop-types" "*"
     "@types/react" "*"
 
 "@types/react@*":
