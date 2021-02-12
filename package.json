@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "bara": "^2.4.0",
-    "react-native-web": "^0.14.0"
+    "react-native-web": "^0.15.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "3.0.6",
