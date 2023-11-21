@@ -1322,10 +1322,10 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha512-ce5d3q03Ex0sy4R14722Rmt6MT07Ua+k4FwDfdcToYJcMKNtRVQvJ6JCAPdAmAnbRb6CsX6aYb9m96NGod9uTw==
 
-"@types/react-dom@16.9.22":
-  version "16.9.22"
-  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-16.9.22.tgz#707f6806866d41d58f30ac348cc9be696c716e77"
-  integrity sha512-x7T/NHsYiKfbIwZDzBTThTF3a3UPNLanOY4wbEe4Hy44hf0tWIZTu8VZJTkB/FKcr4cbfDq0E7y3jSLJh4cpow==
+"@types/react-dom@16.9.23":
+  version "16.9.23"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-16.9.23.tgz#d34a599e540937a375a0cf6fb90d5412ff7d2042"
+  integrity sha512-z0iuGR4NwBdGR/D2+ErsuONGwIwhaKKc6Wk/QpUzSvKqURRreKGm202H3XpP+yA1uFaLnRNWzh6p5TQDCPSc7A==
   dependencies:
     "@types/react" "^16"
 
@@ -1345,10 +1345,10 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/react@16.14.51":
-  version "16.14.51"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.14.51.tgz#2bf66518ee13947bb5074de6c14e6b3ac343cfe0"
-  integrity sha512-4T/wsDXStA5OUGTj6w2INze3ZCz22IwQiWcApgqqNRU2A6vNUIPXpNkjAMUFxx6diYPVkvz+d7gEtU7AZ+0Xqg==
+"@types/react@16.14.52":
+  version "16.14.52"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.14.52.tgz#d6c31c3f69cf6ae10718d0a07a2ef6f2ebafc490"
+  integrity sha512-4+ZN73hgRW3Gang3QMqWjrqPPkf+lWZYiyG4uXtUbpd+7eiBDw6Gemila6rXDd8DorADupTiIERL6Mb5BQTF2w==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
