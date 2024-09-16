@@ -24,7 +24,7 @@
     "@semantic-release/git": "7.0.18",
     "@types/jest": "24.9.1",
     "@types/node": "11.15.54",
-    "@types/react": "16.14.60",
+    "@types/react": "16.14.61",
     "@types/react-dom": "16.9.24",
     "@types/react-native": "0.73.0",
     "react": "16.14.0",
