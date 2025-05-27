@@ -2431,10 +2431,10 @@
   dependencies:
     react-native "*"
 
-"@types/react@16.14.64":
-  version "16.14.64"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.14.64.tgz#f5d9d4733c101415e8b913ea539b09d6cf85e0f0"
-  integrity sha512-CcJ89hvLdpjYzV9QHYAbD2IVggc8RYEd7Km40HzJPuN3TiKv9sfSNYXj8zohrIGJPiKMClMIXJE+XJX1qZXpnw==
+"@types/react@16.14.65":
+  version "16.14.65"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.14.65.tgz#e7e4c1f7e90c3c615105c22e6e5cf43766663716"
+  integrity sha512-Guc3kE+W8LrQB9I3bF3blvNH15dXFIVIHIJTqrF8cp5XI/3IJcHGo4C3sJNPb8Zx49aofXKnAGIKyonE4f7XWg==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "^0.16"
