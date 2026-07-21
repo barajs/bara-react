@@ -27,7 +27,7 @@
     "@types/react": "16.14.70",
     "@types/react-dom": "16.9.25",
     "@types/react-native": "0.73.0",
-    "react": "16.14.0",
+    "react": "19.2.8",
     "react-dom": "16.14.0",
     "react-scripts": "2.1.8",
     "semantic-release": "15.14.0",
