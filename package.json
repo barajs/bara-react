@@ -29,7 +29,7 @@
     "@types/react-native": "0.73.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "semantic-release": "15.14.0",
     "tslint": "5.20.1",
     "tslint-config-airbnb": "5.11.2",
